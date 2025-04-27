@@ -4,7 +4,7 @@ import { NextRequest, NextResponse } from "next/server";
 const replies = {
   nextGame: "O próximo jogo da FURIA é dia 28/04 contra a Team Liquid às 18h!",
   players:
-    "O time atual da FURIA CS:GO é: KSCERATO, yuurih, arT, chelo, FalleN.",
+    "O time atual da FURIA CS:GO é: KSCERATO, yuurih, arT, chelo, FalleN. \n O time atual da FURIA de VALORANT é: f4stzz, mwzera, frz, Khalil, aspas. \n O time atual da FURIA de League of Legends é: Route, esA, Robo, Mari, DyNquedo.",
   lastResult: "FURIA venceu a MIBR por 2-1 no último jogo!",
   tshirt:
     "Você pode comprar camisetas oficiais no site: https://loja.furia.gg/",
