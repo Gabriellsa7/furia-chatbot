@@ -13,7 +13,7 @@ export default function Home() {
     setMessages([
       {
         sender: "bot",
-        text: '🐆 Olá! Eu sou o bot oficial da FURIA! Pergunte algo como "próximo jogo", "jogadores", "último resultado" ou "camiseta".',
+        text: '🐆 Olá! Eu sou o bot oficial da FURIA! Pergunte algo como "próximos jogos", "jogadores", "último resultado" ou "camiseta".',
       },
     ]);
   }, []);
