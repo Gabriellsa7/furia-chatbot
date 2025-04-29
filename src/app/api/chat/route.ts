@@ -27,7 +27,7 @@ const matchMessage = (message: string) => {
     return replies.players;
   }
 
-  if (normalizedMessage.includes("último resultado")) {
+  if (normalizedMessage.includes("ultimo resultado")) {
     return replies.lastResult;
   }
 
