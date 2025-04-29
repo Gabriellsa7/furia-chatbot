@@ -5,7 +5,7 @@ const replies = {
   nextGame:
     "League of Legends (LoL): 03 de maio de 2025 às 13h: FURIA vs. RED Canids , 11 de maio de 2025 às 10h: FURIA vs. Fluxo W7M",
   players:
-    "O time atual da FURIA CS:GO é: KSCERATO, yuurih, arT, chelo, FalleN. \n O time atual da FURIA de VALORANT é: f4stzz, mwzera, frz, Khalil, aspas. \n O time atual da FURIA de League of Legends é: Route, esA, Robo, Mari, DyNquedo.",
+    "O time atual da FURIA CS:GO é: KSCERATO, yuurih, sidde, molodoy, mareks galinskis, FalleN. \n O time atual da FURIA de VALORANT é: raafa, heat, pryze, Khalil, havoc, mwzera. \n O time atual da FURIA de League of Legends é: Guigo, Tatuu, JoJo, Ayu, Tutsz.",
   lastResult: "Furia Venceu a Loud no LoL por 2x1 no ultimo dia 27/04",
   tshirt:
     "Você pode comprar camisetas oficiais no site: https://loja.furia.gg/",
